@@ -1,3 +1,6 @@
 [submodule "platforms/nuttx-core/apps"]
 	path = platforms/nuttx-core/apps
 	url = https://github.com/bitrefactor/Nuttx-apps.git
+[submodule "platforms/nuttx-core/nuttx"]
+	path = platforms/nuttx-core/nuttx
+	url = https://github.com/bitrefactor/Nuttx.git
